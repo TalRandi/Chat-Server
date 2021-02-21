@@ -1,15 +1,11 @@
 
-Login name: talrn
-
-Name & ID: Tal Randi - 315633503
-
 Exercise Name: EX4 – Char Server
 
 Files:
 
 chatserver.c 	   :	 This c file implements the chat server that allow to multiple clients to communicate and send messages each other.
 	
-README 		   :	 This file
+
 
 Remarks: 
 
